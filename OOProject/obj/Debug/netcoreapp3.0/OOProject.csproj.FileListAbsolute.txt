@@ -1,0 +1,8 @@
+/Users/nikitaavdeev/Projects/OOProject/OOProject/bin/Debug/netcoreapp3.0/OOProject.deps.json
+/Users/nikitaavdeev/Projects/OOProject/OOProject/bin/Debug/netcoreapp3.0/OOProject.dll
+/Users/nikitaavdeev/Projects/OOProject/OOProject/bin/Debug/netcoreapp3.0/OOProject.pdb
+/Users/nikitaavdeev/Projects/OOProject/OOProject/obj/Debug/netcoreapp3.0/OOProject.csprojAssemblyReference.cache
+/Users/nikitaavdeev/Projects/OOProject/OOProject/obj/Debug/netcoreapp3.0/OOProject.AssemblyInfoInputs.cache
+/Users/nikitaavdeev/Projects/OOProject/OOProject/obj/Debug/netcoreapp3.0/OOProject.AssemblyInfo.cs
+/Users/nikitaavdeev/Projects/OOProject/OOProject/obj/Debug/netcoreapp3.0/OOProject.dll
+/Users/nikitaavdeev/Projects/OOProject/OOProject/obj/Debug/netcoreapp3.0/OOProject.pdb
